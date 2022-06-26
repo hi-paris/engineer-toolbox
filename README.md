@@ -1,2 +1,2 @@
 # engineer-toolbox
-all scripts that can help engineers on projects with researchers
+all scripts that can help engineers, researchers and students accelerate their Machine Learning Projects 🚀
